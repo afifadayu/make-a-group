@@ -3,9 +3,9 @@
 
 ### App Screenshot
 <p float="left">
-  <img src="img/1.png" width="300" height="auto">
-  <img src="img/2.png" width="300" height="auto">
-  <img src="img/3.png" width="300" height="auto">
+  <img src="img/1.png" width="200" height="auto">
+  <img src="img/2.png" width="200" height="auto">
+  <img src="img/3.png" width="200" height="auto">
 </p>
 
 ### App Installation
