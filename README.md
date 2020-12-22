@@ -2,9 +2,9 @@
 ##### Build with React Native (EXPO)
 
 ### App Screenshot
-![image](img/1.png)
-![image](img/2.png)
-![image](img/3.png)
+<img src="img/1.png" width="200" height="auto">
+<img src="img/2.png" width="200" height="auto">
+<img src="img/3.png" width="200" height="auto">
 
 ### App Installation
 1. Clone from GitHub
