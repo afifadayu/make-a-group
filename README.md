@@ -10,7 +10,7 @@
 1. Clone from GitHub
 ```
 git clone https://github.com/afifadayu/make-a-group.git
-cd make-a-group\make-a-group
+cd make-a-group\app
 ```
 
 2. Installing node.js
